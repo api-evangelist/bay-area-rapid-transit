@@ -1,0 +1,32 @@
+aid: bay-area-rapid-transit
+name: Bay Area Rapid Transit
+description: "Stations and predicted arrivals for BART"
+url: http://api.bart.gov
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Bay Area Rapid Transit
+    description: "Stations and predicted arrivals for BART"
+    humanURL: http://api.bart.gov
+    baseURL: http://api.bart.gov
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: http://api.bart.gov
+common:
+  - type: Website
+    url: http://api.bart.gov
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
