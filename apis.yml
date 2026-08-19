@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bay-area-r
 name: Bay Area Rapid Transit
 description: "Stations and predicted arrivals for BART"
 url: http://api.bart.gov
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
