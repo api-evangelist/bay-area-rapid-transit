@@ -39,7 +39,6 @@ apis:
   - name: Bay Area Rapid Transit
     description: "Stations and predicted arrivals for BART"
     humanURL: http://api.bart.gov
-    baseURL: http://api.bart.gov
     tags:
       - Transportation
     properties:
